@@ -48,7 +48,36 @@ output, dibawah ini merupakan contoh perbedaan penggunaan 'p' dengan 'pre' terha
 
 ![Screenshot (753)](https://github.com/ValenisaaFalaq/pWeb/assets/168526560/a9156268-c41c-4865-9e17-aea5ef0cde7f)
 <hr>
+
 <h1>HTML Formating</h1>
+<pre>
+formating merupakan pengeditan terhadap suatu paragraf atau kata dlam paragaraf
+terdapat berbagai macam formating seperti
+a. bold
+  bold digunakan untuk menebalkan suatu tulisan
+b. strong
+  strong digunakan untuk menebalkan suatu tulisan namun lebih tebal daripada bold
+c. italic
+   digunakan untuk memeringkan suatu tulisan
+d. empasis
+  sebagai penekanan suatu kata atau kalimat
+e. small
+  untuk memperkecil ukuran font dari ukuran yang sudah tertera
+f. ins
+  untuk menggaris bawah suatu kalimat atau kata
+g. del
+  untuk mencoret suatu kalimat atau kata
+h. sup
+  untuk memperkecil dan memposisikan kata atau kalimat dibagian atas
+i. sub
+  untuk memperkecil dan memposisikan kalimat atau kata dibagian bawah
+j. mark
+  untuk menghighlight suatu tulisan
+</pre>
+
+![Screenshot (755)](https://github.com/ValenisaaFalaq/pWeb/assets/168526560/784e1695-e7a8-4944-b679-9cc06ebad7ef)
+
+![Screenshot (756)](https://github.com/ValenisaaFalaq/pWeb/assets/168526560/99895c97-6e43-44ff-bcfb-72e5f2c1aa0b)
 
 
 
