@@ -39,14 +39,18 @@ tulisan akan terbentuk otomatis pada baris baru
 ![Screenshot (748)](https://github.com/ValenisaaFalaq/pWeb/assets/168526560/1bb01484-45f6-4afa-913e-cfd80ed96333)
 <h4>Elemen line break "br"</h4>
 penggunaan line break otoamatis menghasilkan baris baru walaupun dalam baris baru tersebut tidak ada suatu paragraf atau isi.
-![Screenshot (750)](https://github.com/ValenisaaFalaq/pWeb/assets/168526560/76a89308-59d6-4b62-a2ee-5b9ccf433652)
-![Screenshot (751)](https://github.com/ValenisaaFalaq/pWeb/assets/168526560/5c918b96-b720-4e44-ab7f-2e51e4faaad7)
+![Screenshot (750)](https://github.com/ValenisaaFalaq/pWeb/assets/168526560/78260561-d4ee-41a3-99c9-df7efa7f3fa6)
+
+![Screenshot (751)](https://github.com/ValenisaaFalaq/pWeb/assets/168526560/d2dd3f8b-6846-46c5-8e3f-6c0752de3bc0)
+
 <h4>elemen "pre"</h4>
 preformated atau "pre" digunakan untuk melakukan output sesuai dengan text yang ditulis, artinya ketikan kita memberikan line break dengan tombol 'enter' maka line break itu akan juga teroutput. berbeda dengan penggunaan 'p' yang setiap line break dengan tombol 'enter' sebanyak apapun tidak akan ter-
 output, dibawah ini merupakan contoh perbedaan penggunaan 'p' dengan 'pre' terhadap line break dengan tombol 'enter'
-![Screenshot (752)](https://github.com/ValenisaaFalaq/pWeb/assets/168526560/0537af71-2ed9-4de4-b211-a0180323dfda)
+![Screenshot (752)](https://github.com/ValenisaaFalaq/pWeb/assets/168526560/04e7cc88-9237-4758-b7f9-cf07a2370654)
 
-![Screenshot (753)](https://github.com/ValenisaaFalaq/pWeb/assets/168526560/a9156268-c41c-4865-9e17-aea5ef0cde7f)
+![Screenshot (753)](https://github.com/ValenisaaFalaq/pWeb/assets/168526560/809659fd-01bd-4420-a7c7-228f299273eb)
+
+
 <hr>
 
 <h1>HTML Formating</h1>
