@@ -39,6 +39,7 @@ tulisan akan terbentuk otomatis pada baris baru
 ![Screenshot (748)](https://github.com/ValenisaaFalaq/pWeb/assets/168526560/1bb01484-45f6-4afa-913e-cfd80ed96333)
 <h4>Elemen line break "br"</h4>
 penggunaan line break otoamatis menghasilkan baris baru walaupun dalam baris baru tersebut tidak ada suatu paragraf atau isi.
+
 ![Screenshot (750)](https://github.com/ValenisaaFalaq/pWeb/assets/168526560/78260561-d4ee-41a3-99c9-df7efa7f3fa6)
 
 ![Screenshot (751)](https://github.com/ValenisaaFalaq/pWeb/assets/168526560/d2dd3f8b-6846-46c5-8e3f-6c0752de3bc0)
@@ -46,6 +47,7 @@ penggunaan line break otoamatis menghasilkan baris baru walaupun dalam baris bar
 <h4>elemen "pre"</h4>
 preformated atau "pre" digunakan untuk melakukan output sesuai dengan text yang ditulis, artinya ketikan kita memberikan line break dengan tombol 'enter' maka line break itu akan juga teroutput. berbeda dengan penggunaan 'p' yang setiap line break dengan tombol 'enter' sebanyak apapun tidak akan ter-
 output, dibawah ini merupakan contoh perbedaan penggunaan 'p' dengan 'pre' terhadap line break dengan tombol 'enter'
+
 ![Screenshot (752)](https://github.com/ValenisaaFalaq/pWeb/assets/168526560/04e7cc88-9237-4758-b7f9-cf07a2370654)
 
 ![Screenshot (753)](https://github.com/ValenisaaFalaq/pWeb/assets/168526560/809659fd-01bd-4420-a7c7-228f299273eb)
@@ -85,9 +87,71 @@ j. mark
 <hr>
 <h1>HTML Style</h1>
 Style dalam HTML ada berbagai macam. mulai dari style warna tulisan, style background, style ukuran tulisan, style jenis font dan lain sebagainya. pendeklarasian style bisa di dalam elemen maupun dengan elemen style itu sendiri. berikut hasil outputnya
+
 ![Capture](https://github.com/ValenisaaFalaq/pWeb/assets/168526560/1eb8627d-08c4-4eb5-975f-a3faf60a7d7a)
 ![Capture1](https://github.com/ValenisaaFalaq/pWeb/assets/168526560/a8f844e1-c4ec-48ce-886e-de0c6a3239c4)
 ![Capture3](https://github.com/ValenisaaFalaq/pWeb/assets/168526560/d8ff1915-1dd9-4737-aa60-b22ea3f1c511)
+
+<hr>
+<h4>HTML Quotation</h4>
+HTML quotation digunakan untuk mengquote atau memetik sebuah kata atau kalimat. macam macam quotation yaitu
+<pre>
+a. Blockquote
+  Blockquote berfungsi untuk membuat satu paragraf menjorok kedalam.
+b. quotation "q"
+  Adalah memberi quotation dengan tanda petik dalam suatu paragraf atau kalimat
+c. quotation Address
+  Yaitu quotation untuk menuliskan suatu alamat 
+d. quotation bdo
+  bdo digunakan ketika kita ingin menuliskan suatu kata atau kalimat dari kanan ke kiri
+e. cite
+  cite digunakan untuk penamaan suatu karya
+</pre>
+
+  ![4](https://github.com/ValenisaaFalaq/pWeb/assets/168526560/30f98f54-cea8-44aa-aa1e-20ec9458773b)
+
+![5](https://github.com/ValenisaaFalaq/pWeb/assets/168526560/23307668-612c-440e-8fae-50ab0737223b)
+
+<hr>
+<hr>
+<h1>CSS</h1>
+CSS pada dasarnya digunakan untuk menghias web. CSS digunakan berdampingan dengan HTML, CSS digunakan untuk mempermudah kita dalam memodifikasi suatu web
+<p>Pendeklarasian CSS sendiri di dalam suatu tag, bisa membuat tag style sendiri, maupun menggunakan link yang terhubung dengan style yang tidak dalam satu file</p>
+<h5>contoh Style dalam tag</h5>
+
+![7](https://github.com/ValenisaaFalaq/pWeb/assets/168526560/f5c66b08-2edb-40ea-b894-71b31f29bf98)
+
+<h5>contoh pendeklarasian Style dengan div </h5>
+
+![8](https://github.com/ValenisaaFalaq/pWeb/assets/168526560/08bc2da1-560c-435a-b391-73a6b0029756)
+
+
+<hr>
+<h1>CSS Border</h1>
+adalah sebuah properti untuk mengubah ngubah border mulai dari warna, ketebalan, jenis border dan lain sebagainya. jenis jenis border ada banyak yaitu:
+<pre>
+  a. dotted        e. dashed
+  b. solid         f. groove
+  c. double        g. ridge
+  d. inset         h. outset
+                   i. border bulat
+                   j. mix border 
+</pre>
+
+![6](https://github.com/ValenisaaFalaq/pWeb/assets/168526560/90a4a046-d67f-41c9-b3e4-dc18131f8c4d)
+
+<hr>
+<h1>CSS Box</h1>
+merupakan box yang membungkus suatu paragraf atau content di dalam nya
+
+![9](https://github.com/ValenisaaFalaq/pWeb/assets/168526560/68aa0bfd-d272-4ca7-8ea7-57db9308f562)
+
+<hr>
+<hr>
+<h1>JavaScript</h1>
+
+
+
 
 
 
