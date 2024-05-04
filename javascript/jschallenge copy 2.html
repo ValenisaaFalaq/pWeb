@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>JavaScript Challenge</title>
+    </head>
+    <body>
+        <style>
+            table {
+                font-family: arial;
+                border-collapse: collapse;
+                width :100%; 
+              }
+              td, th {
+                border: 1px solid #dddddd;
+                text-align: left;
+                padding: 8px
+              } 
+               tr:nth-child(even) {
+                background-color: #dddddd;
+               }
+               tr:hover {
+                background-color:greenyellow;
+    
+                }
+            
+        </style>
+        
+        <table>
+            <tr>
+                <th>Materi</th>
+                <th>Sub Materi</th>
+                <th>Icon</th>
+            </tr>
+            <tr>
+            <td></td>
+            <td>5</td>
+            </tr>
+            <tr>
+                <td>b</td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>c</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td >Hasil</td>
+                <td id="hasil" onmouseover=hitung() onmouseleave=kosong()></td>
+                </tr>
+            </table>
+            <script>
+            function hitung(){
+            let  a = 5;
+            let b = 2;
+            let c= 1;
+            d= a + b - c;
+        document.getElementById("hasil").innerHTML = d;
+            }
+            function kosong(){
+                document.getElementById("hasil").innerHTML="";
+            }
+        </script>
+        
+    </body>
