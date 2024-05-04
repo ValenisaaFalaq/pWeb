@@ -82,6 +82,16 @@ j. mark
 ![Screenshot (755)](https://github.com/ValenisaaFalaq/pWeb/assets/168526560/784e1695-e7a8-4944-b679-9cc06ebad7ef)
 
 ![Screenshot (756)](https://github.com/ValenisaaFalaq/pWeb/assets/168526560/99895c97-6e43-44ff-bcfb-72e5f2c1aa0b)
+<hr>
+<h1>HTML Style</h1>
+Style dalam HTML ada berbagai macam. mulai dari style warna tulisan, style background, style ukuran tulisan, style jenis font dan lain sebagainya. pendeklarasian style bisa di dalam elemen maupun dengan elemen style itu sendiri. berikut hasil outputnya
+![Capture](https://github.com/ValenisaaFalaq/pWeb/assets/168526560/1eb8627d-08c4-4eb5-975f-a3faf60a7d7a)
+![Capture1](https://github.com/ValenisaaFalaq/pWeb/assets/168526560/a8f844e1-c4ec-48ce-886e-de0c6a3239c4)
+![Capture3](https://github.com/ValenisaaFalaq/pWeb/assets/168526560/d8ff1915-1dd9-4737-aa60-b22ea3f1c511)
+
+
+
+
 
 
 
