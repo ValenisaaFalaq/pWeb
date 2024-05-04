@@ -1,5 +1,16 @@
 <h1>PEMROGAMAN WEB</h1>
 <p>Pemrograman web merupakan proses pembuatan aplikasi menggunakan bahasa skrip untuk menciptakan program yang dapat diakses melalui halaman web. Dalam praktiknya, ini mencakup pengembangan beragam aplikasi, mulai dari situs web statis hingga aplikasi web dinamis yang kompleks. Menggunakan bahasa seperti HTML, CSS, dan JavaScript. Pemrograman web memungkinkan pembuatan aplikasi yang dapat diakses secara luas melalui internet.</p>
+<h1>HTML<h1>
+  <p>
+  Hypertext Markup Language (HTML) adalah bahasa pemrograman
+yang digunakan untuk menampilkan sebuah website. HTML termasuk
+dalam bahasa pemrograman yang dipakai oleh banyak orang di banyak negara dan bisa
+dikatakan sebagai sebuah bahasa yang dikembangkan bersama-sama secara
+global.
+Dokumen HTML disimpan dengan file extension .html . Dokumen HTML
+punya beberapa elemen yang dikelilingi oleh tag-teks yang dimulai dengan
+symbol “ < ” dan berakhir dengan sebuah symbol “ > ”
+  </p>
 <h3>struktur dasar HTML</h3>
 <pre>
 < html >
@@ -35,6 +46,7 @@ Heading HTML digunakan untuk mendeklarasikan judul yang akan ditampilkan pada ha
 Paragraf diawali dengan element "p". 
 ketika kita menggunakan elemen paragraf maka 
 tulisan akan terbentuk otomatis pada baris baru
+
 ![Screenshot (749)](https://github.com/ValenisaaFalaq/pWeb/assets/168526560/f4c86a96-a619-4327-be8f-a6401318c8ed)
 ![Screenshot (748)](https://github.com/ValenisaaFalaq/pWeb/assets/168526560/1bb01484-45f6-4afa-913e-cfd80ed96333)
 <h4>Elemen line break "br"</h4>
@@ -149,14 +161,25 @@ merupakan box yang membungkus suatu paragraf atau content di dalam nya
 <hr>
 <hr>
 <h1>JavaScript</h1>
+<p>JavaScript digunakan untuk mengurangi beban server dan kemacetan jaringan karena JavaScript dapat menjalankan operasi logis serta melakukan banyak pekerjaan server.
+salah satu contoh yaitu Javascript Arithmatic</p>
 
+<h1>JavaScript Arithmatic</h1>
+js Aritmathic adalah sistem operasi javascript yang mengoprasikan perhitungan matematika seperti penjumlahan, pengurangan dan pembagian.
+contoh:
 
+![10](https://github.com/ValenisaaFalaq/pWeb/assets/168526560/b57ab6bc-a322-4d9e-ab05-d95d3cc655a2)
 
+<p>dalam Javascript guna untuk mempersingkat waktu pemrogaman web serta membuatnya menjadi efisien, maka kita tidak perlu mendeklarasikan semua syntax berulang ulang. pada contoh diatas kita menggunakan id sebagai pemanggilan suatu paragraf nantinya</p>
 
+<p> kemudian dalam code diatas, terdapat elemen script yang digunakan untuk mendefinisikan/ memberi nilai suatu variabel, ataupun bisa juga untu mendeklarasikan suatu fungsi JavaScript.
+yaitu pada variabel x kita beri nilai 5 dan variabel y kita beri nilai 2, kemudian untuk operasi hitungan nya kita panggil variabel x dan y yang sudah bernilai, bukan ditulis nilai dari variabel nya</p>
+<p>Barulah setelah itu untuk menampilkan hasil dari penjumlahan diatas kita memanggil elemen p dengan id kemudian mengarahkan hasil ke paragraf tersebut. maka hasil akan langsung tercetak pada paragraf tersebut</p>
 
+![11](https://github.com/ValenisaaFalaq/pWeb/assets/168526560/ebd5d37b-180a-4b98-bd05-1adc0164b055)
 
-
-
+<hr>
+<p>mungkin itu saja yang dapat saya sampaikan. dikarenakan deadline sudah mepet maka hanya itu yang bisa saya jelaskan, dan mohon maaf atas kurang bisanya saya dalam me manage waktu untuk tugas 2 dari bapak kali ini</p> 
 
 
 
